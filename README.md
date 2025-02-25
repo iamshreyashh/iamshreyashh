@@ -2,7 +2,7 @@
 
 
 ## Hi, I am Shreyash Tripathi! 👨‍💻
-🚀 Software Engineer | Blockchain Developer
+🚀 Software Engineer | Blockchain Developer 
 - Smart Contract Developer (Rust & Solidity) 
 - Core Blockchain developer
 - Passionate about Web3 & decentralized technologies
@@ -11,57 +11,49 @@
 
 ![iamshreyashh's Stats](https://github-readme-stats.vercel.app/api?username=iamshreyashh&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 
-<!-- ![iamshreyashh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamshreyashh&theme=vue-dark&hide_border=false) -->
+![iamshreyashh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamshreyashh&theme=cobalt&hide_border=false)
 
 ![iamshreyashh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshreyashh&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
 
-## 📚 Recent Learning Projects
-| Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------ |
-| [Bluesky 3D Graph](https://bluesky-3d-graph.vercel.app/)                                             | [Website](https://bluesky-3d-graph.vercel.app/)                                                                   |  3D chart of your Bluesky post activity        | [Live on PH](https://bluesky-3d-graph.vercel.app/)                    |
-| [mdx Blog](https://mdx-blog-amber.vercel.app/)                                            | [Website](https://mdx-blog-amber.vercel.app/)                                                                   |  Premium MDX, NextJS, TailwindCSS Template         | [3rd DevHunt](https://devhunt.org/tool/nextjs-mdx-blog)                    |
-| [Personal Blog v2](https://maxrohowsky.com/)                                                 | [Website](https://maxrohowsky.com/)                                                                                |  New Blog.                                         |                    |
-| [Outline HTML Elements](https://github.com/maxrohowsky/outline-html-elements)               | [Webstore](https://chrome.google.com/webstore/detail/ihlgleabnhekkankfpfoafkobncbfcfo)                          | Outline HTML Elements to Inspect Website Layout    |                    |
-| [Twitter (X) Font Editor](https://github.com/maxrohowsky/twitter-font-editor)               | [Webstore](https://chromewebstore.google.com/detail/x-twitter-post-text-edito/dgcfmccdeggjhkpndikcanaobhkggffd) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for Twitter       |                    |
-| [Landing Page Design Examples](https://github.com/maxrohowsky/landing-page-design-examples) | [Website](https://landing-page-design-examples.vercel.app/)                                                     | Awesome Landing Pages                              |  [5th DevHunt](https://devhunt.org/tool/landinghero)                 |
-| [Best GitHub Profile Readmes](https://github.com/maxrohowsky/best-github-profile-readme)    | [Website](https://maxrohowsky.github.io/best-github-profile-readme/)                                              | GitHub's most Unique Profiles                      |  [3rd DevHunt](https://devhunt.org/tool/gitpro)   |
-| [Click to Copy](https://github.com/maxrohowsky/click-to-copy)                               | [Webstore](https://chromewebstore.google.com/detail/click-to-copy/fonpjogfddpklefillfepifbcikebelh)             | Copy Text, Urls, and CSS with one Click!           |  [4rd DevHunt](https://devhunt.org/tool/click-to-copy) |
-| [LinkedIn Font Editor](https://github.com/maxrohowsky/linkedin-font-editor)                 | [Webstore](https://chromewebstore.google.com/detail/linkedin-post-bold-italic/djkclikbnokagbeciclfpngfeclcokob) | 𝗕𝗼𝗹𝗱, 𝐼𝑡𝑎𝑙𝑖𝑐, and U̲n̲d̲e̲r̲l̲i̲n̲e̲d̲ Fonts for LinkedIn      |                    |
-| [NEFT Flappy Bird](https://github.com/maxrohowsky/neft-flappy-bird)                         | [Video](https://www.youtube.com/watch?v=zsGvCwaaMOI)                                                            | Neuro Evolution with Fixed Topologies from Scratch |                    |
-| Personal Blog v1                                                  | (Taken Down)                                                                             | Built with NextJS (App Router) & WP GraphQL        |                    |
+## **About Me 🐠**
+
+A computer science graduate, a developer, a traveller, a cook. I architect smart contracts, fine-tune blockchain systems, and craft seamless frontends that bring Web3 to life. On weekdays, I juggle Golang, Solidity, and React—building, breaking, and fixing along the way. On weekends, I chase efficiency, explore new tech, and sometimes question my life choices over failed deployments.
+
+ Oh, and I occasionally laugh at bad crypto memes, stare at confusing error logs, and vibe to  mozart's piano music while coding.
+
+### Quick Facts
+
+- Open to freelance/Consultant roles.
+- 👨🏻‍🎓 I ocasionally mentor at various web3 hackathons.
+- 📚 Ex-Web3 lead for GDSC PSIT.
+- 👀 I’m interested in developing secure systems, System Security, Cryptography and Networking.
+- Love to attend dev meet-ups.
+
 
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **Senior Consultant**         | **Simon-Kucher**                | **Custom Software & Loyalty Software**       | **2024-08 — now** |
-| Consultant         | Deloitte                | Technology Strategy       | 2023-01 — 2024-04 |
-| Consultant             | BearingPoint                | Trade Promotion Management       | 2021-10 — 2022-11 |
-| Researcher             | Technical Univ. Berlin      | Quantitative Finance          | 2021-05 — 2022-10 |
-| Assistant to GM        | AHK Greater China           | Industry Services & Banking   | 2021-02 — 2021-04 |
+| **Blockchain Engineer**         | **BlockOn Ventures**                | **Software Technology**       | **2024-11 — now** |
+| Full stack web3 engineer     | Edubuk                | Software Technology      | 2024-06 — 2024-10 |
+| Golang Developer             | Jumbochain      | Software Technology         | 2023-11 — 2024-05 
 
 ## 🎓 Education
-- Ph.D. Degree @ Technical University of Berlin (2019 - 2021) 
-- Master’s Degree @ Tongji University of Shanghai (2016 - 2018)
-- Master’s Degree @ Technical University of Berlin (2015 - 2018)
-- Bachelor's Degree @ Technical University of Berlin (2011 - 2015)
+- Bachelor's Degree ( Computer science and Engineering) | Pranveer Singh Institute Of Technology, Kanpur ( 2020 - 2024)
 
-## 📝 Popular Blog Posts 
-- [JavaScript in a Nutshell](https://maxrohowsky.com/blog/javascript-in-a-nutshell)
-- [My Core Beliefs](https://maxrohowsky.com/blog/my-core-beliefs)
-- [How Does the Internet Work?](https://maxrohowsky.com/blog/how-the-internet-works)
 
-## 🛠 Technologies I Use  
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 🛠 Programming languages I often code in 
+![](https://img.shields.io/badge/solidity-61DAFB?style=for-the-badge&logo=solidity&logoColor=white)
+![](https://img.shields.io/badge/rust-21759B?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) -->
 ![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
