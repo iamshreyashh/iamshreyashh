@@ -1,4 +1,4 @@
-![banner](/assets/banner2.png)
+![banner](/resources/banner.png)
 
 
 ## Hi There! 👨‍💻
