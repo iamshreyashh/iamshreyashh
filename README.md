@@ -1,14 +1,19 @@
 ![banner](resources/banner2.gif)
 
 
-## Hi There! 👨‍💻
-I'm Shreyash Tripathi, a Software engineer with specialization in Blockchain. 
-- Currently, I work as the Smart contract developer ( Rust and Solidity)
-- Profound interest in building on web3
+## Hi, I am Shreyash Tripathi! 👨‍💻
+🚀 Software Engineer | Blockchain Developer
+- Smart Contract Developer (Rust & Solidity) 
+- Core Blockchain developer
+- Passionate about Web3 & decentralized technologies
 
 ## 📊 Stats
 
-[![Max's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=maxrohowsky&show_icons=true&theme=vue)](https://github.com/maxrohowsky/github-readme-stats)
+![iamshreyashh's Stats](https://github-readme-stats.vercel.app/api?username=iamshreyashh&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![iamshreyashh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamshreyashh&theme=vue-dark&hide_border=false)
+
+![iamshreyashh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshreyashh&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## 📚 Recent Learning Projects
 | Repository                                                                                | Link                                                                                                            | Description                                        | Awards |
