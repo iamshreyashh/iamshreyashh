@@ -1,10 +1,10 @@
-![banner](https://my.spline.design/interfaceii-7dd8131a9656ff53f607a720c11908fb/)
+![banner](resources/banner2.gif)
 
 
 ## Hi There! 👨‍💻
-I'm Max, a Finance Ph.D. with a background in Industrial Engineering 
-- Currently, I work in consulting in the finance & tech space
-- Profound interest in building projects and products that 'stick'
+I'm Shreyash Tripathi, a Software engineer with specialization in Blockchain. 
+- Currently, I work as the Smart contract developer ( Rust and Solidity)
+- Profound interest in building on web3
 
 ## 📊 Stats
 
