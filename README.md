@@ -1,4 +1,4 @@
-![banner](/resources/banner.png)
+![banner]([/resources/banner.png](https://my.spline.design/interfaceii-7dd8131a9656ff53f607a720c11908fb/))
 
 
 ## Hi There! 👨‍💻
