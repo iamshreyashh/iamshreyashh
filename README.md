@@ -5,8 +5,7 @@
 🚀 Software Engineer | Blockchain Developer 
 - Smart Contract Developer (Rust & Solidity) 
 - Core Blockchain developer
-- Passionate about Web3 & decentralized technologies hello chitan
-
+- Passionate about Web3 & decentralized technologies 
 ## 📊 Stats
 
 ![iamshreyashh's Stats](https://github-readme-stats.vercel.app/api?username=iamshreyashh&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
