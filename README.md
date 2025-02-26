@@ -5,7 +5,7 @@
 🚀 Software Engineer | Blockchain Developer 
 - Smart Contract Developer (Rust & Solidity) 
 - Core Blockchain developer
-- Passionate about Web3 & decentralized technologies
+- Passionate about Web3 & decentralized technologies hello chitan
 
 ## 📊 Stats
 
