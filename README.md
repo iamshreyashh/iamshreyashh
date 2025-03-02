@@ -73,10 +73,9 @@ A computer science graduate, a developer, a traveller, a cook. I architect smart
 
 [![Preview](/resources/twitter.png)](https://x.com/whyshreyash) &nbsp;
 [![Preview](/resources/linkedin.png)](https://www.linkedin.com/in/shreyash28/) &nbsp;
+[![Preview](/resources/discord.png)](https://www.linkedin.com/in/shreyash28/) &nbsp;
 [![Preview](/resources/telegram.png)](t.me/Whyshreyash) &nbsp;
-[![Preview](/assets/discord.png)](https://www.discord.gg/JERatQsfY8) &nbsp;
-[![Preview](/assets/youtube.png)](https://www.youtube.com/@maxrohowsky) &nbsp;
-[![Preview](/assets/website.png)](https://maxrohowsky.com) &nbsp;
+
 
 shrey3305
 
