@@ -31,9 +31,9 @@ A computer science graduate, a developer, a traveller, a cook. I architect smart
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **Blockchain Engineer**         | **BlockOn Ventures**                | **Software Technology**       | **2024-11 — now** |
+| **Blockchain/Solidity Engineer**         | **BlockOn Ventures**                | **Software Technology**       | **2024-11 — now** |
 | Full stack web3 engineer     | Edubuk                | Software Technology      | 2024-06 — 2024-10 |
-| Golang Developer             | Jumbochain      | Software Technology         | 2023-11 — 2024-05 
+| Solidity Developer             | Jumbochain      | Software Technology         | 2023-11 — 2024-05 
 
 ## 🎓 Education
 - Bachelor's Degree ( Computer science and Engineering) | Pranveer Singh Institute Of Technology, Kanpur ( 2020 - 2024)
