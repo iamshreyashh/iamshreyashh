@@ -40,29 +40,47 @@ A computer science graduate, a developer, a traveller, a cook. I architect smart
 
 
 
-## 🛠 Programming languages I often code in 
+## 🛠 Programming languages I Ship In:
 ![](https://img.shields.io/badge/solidity-61DAFB?style=for-the-badge&logo=solidity&logoColor=white)
 ![](https://img.shields.io/badge/rust-21759B?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-<!-- ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
+![](https://img.shields.io/badge/GoLang-21759B?style=for-the-badge&logo=GoLang&logoColor=white)
+![](https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) -->
-![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 💻 Tools and Technology :
+![](https://img.shields.io/badge/Hardhat-E10098?style=for-the-badge&logo=Hardhat&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Express-68A063?style=for-the-badge&logo=express&logoColor=white)
+
+
+## Blockchain's I have sailed ⚓️ on :
+![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white)
+![](https://img.shields.io/badge/TRON-DC0915?style=for-the-badge&logo=tron&logoColor=white)
+![](https://img.shields.io/badge/Concordium-121212?style=for-the-badge&logo=concordium&logoColor=white)
+
 
 ## Socials
-[![Preview](/assets/twitter.png)](https://twitter.com/max_on_tech) &nbsp;
-[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/maxrohowsky) &nbsp;
-[![Preview](/assets/discord.png)](https://www.discord.gg/JERatQsfY8) &nbsp;
-[![Preview](/assets/youtube.png)](https://www.youtube.com/@maxrohowsky) &nbsp;
-[![Preview](/assets/website.png)](https://maxrohowsky.com) &nbsp;
+
+[![Preview](/resources/twitter.png)](https://x.com/whyshreyash) &nbsp;
+
+[![Preview](/resources/telegram.png)](t.me/Whyshreyash) &nbsp;
+
+[![Preview](/resources/linkedin.png)](https://www.linkedin.com/in/shreyash28/) &nbsp;
+
+[![Preview](/resources/discord.png)](https://www.linkedin.com/in/shreyash28/) &nbsp;
+
+
+shrey3305
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/iamshreyashh/count.svg)
