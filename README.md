@@ -75,7 +75,7 @@ A computer science graduate, a developer, a traveller, a cook. I architect smart
 [![Preview](/resources/twitter.png)](https://x.com/whyshreyash) &nbsp;
 [![Preview](/resources/linkedin.png)](https://www.linkedin.com/in/shreyash28/) &nbsp;
 [![Preview](/resources/discord.png)](https://www.linkedin.com/in/shreyash28/) &nbsp;
-[![Preview](/resources/telegram.png)](t.me/Whyshreyash) &nbsp;
+[![Preview](/resources/telegram.png)](https://t.me/Whyshreyash) &nbsp;
 
 
 shrey3305
