@@ -4,6 +4,7 @@
 ## Hi, I am Shreyash Tripathi! 👨‍💻
 🚀 Software Engineer | Blockchain Developer 
 - Smart Contract Developer (Rust & Solidity) 
+- Backend Developer by soul
 - Core Blockchain developer
 - Passionate about Web3 & decentralized technologies 
 ## 📊 Stats
