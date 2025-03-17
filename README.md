@@ -1,4 +1,4 @@
-![banner](resources/banner2.gif)
+![sites-légaux-du-Deep-Web-les-plus-intéréssants](https://github.com/iamshreyashh/CyberXlearn/assets/83861666/27e45a78-6116-47b0-a9bd-53770b134d82)
 
 
 ## Hi, I am Shreyash Tripathi! 👨‍💻
