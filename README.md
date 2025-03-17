@@ -1,4 +1,4 @@
-![banner](rresources/banner2.gif)
+![banner](resources/banner2.gif)
 
 
 ## Hi, I am Shreyash Tripathi! 👨‍💻
