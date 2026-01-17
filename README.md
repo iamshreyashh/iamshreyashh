@@ -94,7 +94,9 @@
 
 | Position | Company | Duration |
 | :--- | :--- | :--- |
-| **Blockchain Engineer** | **BlockOn Ventures** | *Nov 2024 — Present* |
+| **Software Engineer** | **TATA CONSULTANCY SERVICES** | *JUN 2025 — Present* |
+| **Blockchain Engineer** | **Usquare** | *FEB 2025 — JUN 2025* |
+| **Blockchain Engineer** | **BlockOn Ventures** | *Nov 2024 — FEB 2025* |
 | **Full Stack Web3 Engineer** | **Edubuk** | *Jun 2024 — Oct 2024* |
 | **Solidity Developer** | **Jumbochain** | *Nov 2023 — May 2024* |
 
