@@ -1,84 +1,112 @@
-![banner](resources/banner2.gif)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Shreyash+Tripathi;Blockchain+Developer;Smart+Contract+Architect;Web3+Enthusiast" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <h3>🚀 Software Engineer | Blockchain Architect | Decentralization Advocate</h3>
+</div>
 
-## Hi, I am Shreyash Tripathi! 👨‍💻
-🚀 Software Engineer | Blockchain Developer 
-- Smart Contract Developer (Rust & Solidity) 
-- Backend Developer by soul
-- Core Blockchain developer
-- Passionate about Web3 & decentralized technologies 
-## 📊 Stats
+<br />
 
-![iamshreyashh's Stats](https://github-readme-stats.vercel.app/api?username=iamshreyashh&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
+<div align="center">
+  <a href="https://x.com/whyshreyash">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/shreyash28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/iamshreyashh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:shreyashtripathi89@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
+<br />
+<br />
 
-![iamshreyashh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshreyashh&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I am a <b>Blockchain Developer</b> and <b>Smart Contract Architect</b> with a passion for building decentralized systems. I specialize in <b>Solidity</b>, <b>Rust</b>, and <b>Go</b>, architecting secure and efficient smart contracts.
+      </p>
+      <p>
+        On weekdays, I build robust Web3 infrastructure. On weekends, I explore new consensus mechanisms, optimize gas costs, and occasionally question the complexity of distributed systems.
+      </p>
+      <p>
+        <b>Quick Highlights:</b>
+        <ul>
+          <li>🔭 Currently working on <b>DeFi Protocols</b> & <b>Layer 2 Solutions</b></li>
+          <li>🌱 Exploring <b>Zero Knowledge Proofs</b> & <b>Account Abstraction</b></li>
+          <li>👯 Looking to collaborate on <b>Open Source Web3 Projects</b></li>
+          <li>💬 Ask me about <b>Solidity, Rust, Ethereum, & Solana</b></li>
+        </ul>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=iamshreyashh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shreyash's GitHub Stats" />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshreyashh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-## **About Me 🐠**
+---
 
-A computer science graduate, a developer, a traveller, a cook. I architect smart contracts, fine-tune blockchain systems, and craft seamless frontends that bring Web3 to life. On weekdays, I juggle Golang, Solidity, and React—building, breaking, and fixing along the way. On weekends, I chase efficiency, explore new tech, and sometimes question my life choices over failed deployments.
+### 🛠 Tech Stack
 
- Oh, and I occasionally laugh at bad crypto memes, stare at confusing error logs, and vibe to  mozart's piano music while coding.
+<div align="center">
 
-### Quick Facts
+#### **Languages**
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-- Open to freelance/Consultant roles.
-- 👨🏻‍🎓 I ocasionally mentor at various web3 hackathons.
-- 📚 Ex-Web3 lead for GDSC PSIT.
-- 👀 I’m interested in developing secure systems, System Security, Cryptography and Networking.
-- Love to attend dev meet-ups.
+#### **Blockchain & Web3**
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Solana-512BD4?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-E10098?style=for-the-badge&logo=hardhat&logoColor=white" />
+<img src="https://img.shields.io/badge/Foundry-3E3E3E?style=for-the-badge&logo=foundry&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
 
+#### **Tools & Frameworks**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-## 👔 Experience
-| Position               | Company                     | Field                         | Work Period       |
-| ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **Blockchain/Solidity Engineer**         | **BlockOn Ventures**                | **Software Technology**       | **2024-11 — now** |
-| Full stack web3 engineer     | Edubuk                | Software Technology      | 2024-06 — 2024-10 |
-| Solidity Developer             | Jumbochain      | Software Technology         | 2023-11 — 2024-05 
+</div>
 
-## 🎓 Education
-- Bachelor's Degree ( Computer science and Engineering) | Pranveer Singh Institute Of Technology, Kanpur ( 2020 - 2024)
+---
 
+### 👔 Experience
 
+| Position | Company | Duration |
+| :--- | :--- | :--- |
+| **Blockchain Engineer** | **BlockOn Ventures** | *Nov 2024 — Present* |
+| **Full Stack Web3 Engineer** | **Edubuk** | *Jun 2024 — Oct 2024* |
+| **Solidity Developer** | **Jumbochain** | *Nov 2023 — May 2024* |
 
-## 🛠 Programming languages I Ship In:
-![](https://img.shields.io/badge/solidity-61DAFB?style=for-the-badge&logo=solidity&logoColor=white)
-![](https://img.shields.io/badge/rust-21759B?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/GoLang-21759B?style=for-the-badge&logo=GoLang&logoColor=white)
-![](https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!-- ![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/MySQL-F79F17?style=for-the-badge&logo=mysql&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) -->
+---
 
-## 💻 Tools and Technology :
-![](https://img.shields.io/badge/Hardhat-E10098?style=for-the-badge&logo=Hardhat&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Express-68A063?style=for-the-badge&logo=express&logoColor=white)
+### 🐍 Contribution Activity
 
+<div align="center">
+  <img src="https://github.com/iamshreyashh/Shreyash/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-## Blockchain's I have sailed ⚓️ on :
-![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white)
-![](https://img.shields.io/badge/TRON-DC0915?style=for-the-badge&logo=tron&logoColor=white)
-![](https://img.shields.io/badge/Concordium-121212?style=for-the-badge&logo=concordium&logoColor=white)
-
-
-## Socials
-
-[![Preview](/resources/twitter.png)](https://x.com/whyshreyash) &nbsp;
-[![Preview](/resources/linkedin.png)](https://www.linkedin.com/in/shreyash28/) &nbsp;
-[![Preview](/resources/discord.png)](https://www.linkedin.com/in/shreyash28/) &nbsp;
-[![Preview](/resources/telegram.png)](https://t.me/Whyshreyash) &nbsp;
-
-
-shrey3305
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/iamshreyashh/count.svg)
+<div align="center">
+  <br />
+  <img src="https://profile-counter.glitch.me/iamshreyashh/count.svg" alt="Visitor Count" />
+</div>
