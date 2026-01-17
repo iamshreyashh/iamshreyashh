@@ -49,9 +49,13 @@
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=iamshreyashh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shreyash's GitHub Stats" />
+        <!-- Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamshreyashh&theme=tokyonight&hide_border=true" alt="Shreyash's Streak" />
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshreyashh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+        <!-- Trophies -->
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=iamshreyashh&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Trophies" />
+        </a>
       </p>
     </td>
   </tr>
@@ -110,5 +114,6 @@
 
 <div align="center">
   <br />
-  <img src="https://profile-counter.glitch.me/iamshreyashh/count.svg" alt="Visitor Count" />
+  <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=iamshreyashh&style=flat-square&color=blue&label=Profile+Views" alt="Visitor Count" />
 </div>
